@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="Final_Project_CIS_297.CreditsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Final_Project_CIS_297"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="Black">
+
+    <Grid>
+        <Button x:ConnectionId='2' x:Name="Home" Content="Home" Margin="10,10,0,0" VerticalAlignment="Top"                    Background="#33FFFFFF" BorderBrush="#FFF6EFEF" Foreground="White"/>
+        <TextBlock x:ConnectionId='3' x:Name="CreditsText_Copy" HorizontalAlignment="Left" Margin="262,178,0,0" TextWrapping="Wrap" Text="Made by: Andrew Winford" VerticalAlignment="Top" Foreground="White" Width="104" TextAlignment="Center" FontFamily="Bahnschrift" Height="81"/>
+        <TextBlock x:ConnectionId='4' x:Name="CreditsText_Copy1" HorizontalAlignment="Left" Margin="157,145,0,0" TextWrapping="Wrap" Text="DigDug: Dig Harder" VerticalAlignment="Top" Foreground="White" Width="343"                                                 TextAlignment="Center" FontFamily="Castellar" FontSize="20"/>
+        <TextBlock x:ConnectionId='5' x:Name="CreditsText_Copy2" HorizontalAlignment="Left" Margin="253,214,0,0" TextWrapping="Wrap" Text="Chandler Joynes Ameer Hamad" VerticalAlignment="Top" Foreground="White" Width="126" TextAlignment="Center" FontFamily="Bahnschrift" Height="81"/>
+
+    </Grid>
+</Page>
+

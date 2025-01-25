@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="Final_Project_CIS_297.Directions"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Final_Project_CIS_297"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="Black">
+
+    <Grid>
+        <Button x:ConnectionId='2' x:Name="Menu" Content="Home" Margin="10,10,590,0" VerticalAlignment="Top" BorderBrush="White" Foreground="White" FocusVisualPrimaryBrush="White" HorizontalAlignment="Stretch"                   />
+        <TextBlock x:ConnectionId='3' x:Name="TitleBlock" TextWrapping="Wrap" Text="DIRECTIONS" Margin="225,92,167,326" Foreground="White" FontSize="72" FontFamily="Blackadder ITC"/>
+        <TextBlock x:ConnectionId='4' x:Name="ControllerControlsBlock" HorizontalAlignment="Left" Margin="152,211,0,0" TextWrapping="Wrap" Text="Controls for Controller: - Move with D pad" VerticalAlignment="Top" Foreground="White" Width="315" Height="172"                                                             FontFamily="Comic Sans MS"/>
+        <TextBlock x:ConnectionId='5' x:Name="KeyboardControlsBlock" TextWrapping="Wrap" Text="Keynoard Controls" Margin="520,211,43,81" Foreground="White" FontFamily="Comic Sans MS"/>
+
+    </Grid>
+</Page>
+

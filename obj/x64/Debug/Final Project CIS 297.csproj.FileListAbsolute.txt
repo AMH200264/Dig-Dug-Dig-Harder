@@ -1,0 +1,64 @@
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\App.xbf
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\CreditsPage.xbf
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\Directions.xbf
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\Menu.xbf
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\GamePage.xbf
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\Final Project CIS 297.xr.xml
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\Final Project CIS 297.exe
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\Final Project CIS 297.pdb
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\resources.pri
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\AppxManifest.xml
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\Core\AppxManifest.xml
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\Core\Final Project CIS 297.exe
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\Final Project CIS 297.build.appxrecipe
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\System.Runtime.dll
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\Final Project CIS 297.csproj.AssemblyReference.cache
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\App.g.i.cs
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\App.g.cs
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\CreditsPage.g.i.cs
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\CreditsPage.g.cs
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\Directions.g.i.cs
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\Directions.g.cs
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\Menu.g.i.cs
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\Menu.g.cs
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\GamePage.g.i.cs
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\GamePage.g.cs
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\App.xaml
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\CreditsPage.xaml
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\Directions.xaml
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\Menu.xaml
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\GamePage.xaml
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\App.xbf
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\CreditsPage.xbf
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\Directions.xbf
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\Menu.xbf
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\GamePage.xbf
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\XamlSaveStateFile.xml
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\Final Project CIS 297.csproj.CoreCompileInputs.cache
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\Final Pr.DFFF344D.Up2Date
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\Final Project CIS 297.exe
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\Final Project CIS 297.pdb
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\ResourceHandlingTask.state
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\priconfig.xml
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\priconfig.xml.intermediate
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\unfiltered.layout.resfiles
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\filtered.layout.resfiles
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\excluded.layout.resfiles
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\resources.resfiles
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\resources.resfiles.intermediate
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\pri.resfiles
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\pri.resfiles.intermediate
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\qualifiers.txt
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\qualifiers.txt.intermediate
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\ProjectArchitectures.txt
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_638361814300000000.json
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+D:\School\CIS 297\Final Project (Dig Dug)\cis297-winter2024-finalproject-Cjoynes2004\Final Project CIS 297\bin\x64\Debug\digdugsong.mp3
